@@ -10,6 +10,10 @@ import java.util.*;
 public class PolandCreator {
     private static ArrayList<Vojv> vojvs = new ArrayList<>();
     private static ArrayList<Powiat> powiats = new ArrayList<>();
+    private static ArrayList<City> cities = new ArrayList<>();
+
+    private static HashMap<Vojv, ArrayList<String>> vojvsCapitals = new HashMap<>();
+    private static HashMap<Powiat, ArrayList<String>> powiatsCapitals = new HashMap<>();
 
     private static final Img vojvsImg = new Img(Poland.VOJV_IMG);
     private static final Img powiatsImg = new Img(Poland.POWIATS_IMG);
@@ -20,13 +24,14 @@ public class PolandCreator {
     }
 
     public static void create() {
-        loadVojvs(vojvs, vojvsImg);
-        loadPowiats(vojvs, powiats, powiatsImg);
+        loadVojvs();
+        loadPowiats();
+        loadCities();
 
         createPoints(vojvs, Poland.VOJV_IMG);
         createPoints(powiats, Poland.POWIATS_IMG);
 
-        try(DataOutputStream writer = new DataOutputStream(new FileOutputStream("poland_data.dat"))) {
+        try(DataOutputStream writer = new DataOutputStream(new FileOutputStream("res/data/poland_data.dat"))) {
             writer.writeInt(vojvs.size());
             for(Vojv v : vojvs) {
                 writeGeographyElement(writer, v);
@@ -40,12 +45,20 @@ public class PolandCreator {
                 Powiat cityPowiatCapital = p.getCityPowiatCapital();
                 writer.writeInt(cityPowiatCapital != null ? cityPowiatCapital.id : -1);
             }
+
+            writer.writeInt(cities.size());
+            for(City c : cities) {
+                writer.writeInt(c.id);
+                writer.writeUTF(c.name);
+                writer.writeInt(c.population);
+                writer.writeInt(c.powiat.id);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static void loadVojvs(ArrayList<Vojv> vojvs, Img vojvsImg) {
+    private static void loadVojvs() {
         HashMap<Vojv, Img> images = new HashMap<>();
         int i = 0;
         ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/vojvs.txt");
@@ -56,8 +69,9 @@ public class PolandCreator {
             ArrayList<String> capital = new ArrayList<>(List.of(line.substring(separator + 1, line.length() - 1).split(", ")));
             i++;
 
-            Vojv v = new Vojv(id, name, capital);
+            Vojv v = new Vojv(id, name);
             vojvs.add(v);
+            vojvsCapitals.put(v, capital);
 
             Img img = ImgHandler.readResourceImg("data/basic/vojvs/" + name);
             ArrayList<Point> pixels = MapPaint.getPixels(img, Poland.MAIN_COLOUR);
@@ -68,7 +82,7 @@ public class PolandCreator {
         createNeighbours(vojvs, images, vojvsImg);
     }
 
-    private static void loadPowiats(ArrayList<Vojv> vojvs, ArrayList<Powiat> powiats, Img powiatsImg) {
+    private static void loadPowiats() {
         HashMap<Powiat, Img> images = new HashMap<>();
         int i = 0;
         ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/powiats.txt");
@@ -94,8 +108,10 @@ public class PolandCreator {
             }
             i++;
 
-            Powiat p = new Powiat(id, name, capital, vojv);
+            Powiat p = new Powiat(id, name, vojv);
             powiats.add(p);
+            powiatsCapitals.put(p, capital);
+            vojv.addPowiat(p);
 
             Img img = ImgHandler.readResourceImg("data/basic/powiats/" + vojv.name + "/" + name);
             ArrayList<Point> pixels = MapPaint.getPixels(img, Poland.MAIN_COLOUR);
@@ -113,14 +129,61 @@ public class PolandCreator {
         createNeighbours(powiats, images, powiatsImg);
     }
 
+    private static void loadCities() {
+        int id = 0;
+        for(Vojv v : vojvs) {
+            ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/cities/" + v.name + ".txt");
+            ArrayList<Powiat> vojvPowiats = v.getPowiats();
+            Powiat powiat = null;
+            for(String line : lines) {
+                if(line.isEmpty()) continue;
+                if(line.charAt(0) == '$') {
+                    int separator = line.indexOf('[');
+                    if(separator != -1) {
+                        String name = line.substring(2, separator - 1);
+                        int population = Integer.parseInt(line.substring(separator + 1, line.indexOf(']')));
+                        Powiat cityPowiat = vojvPowiats.stream().filter(p -> p.name.equals(name)).toList().getFirst();
+
+                        City city = new City(id, name, population, cityPowiat);
+                        cityPowiat.addCity(city);
+                        cityPowiat.setCapital(new ArrayList<>(List.of(city)));
+                        cities.add(city);
+                        id++;
+                    } else {
+                        powiat = vojvPowiats.stream().filter(p -> p.name.equals(line.substring(2))).toList().getFirst();
+                    }
+                } else {
+                    int separator = line.indexOf('[');
+                    String name = line.substring(0, separator - 1);
+                    int population = Integer.parseInt(line.substring(separator + 1, line.indexOf(']')));
+
+                    City city = new City(id, name, population, powiat);
+                    powiat.addCity(city);
+                    cities.add(city);
+                    id++;
+                }
+            }
+        }
+
+        for(Vojv v : vojvs) {
+            v.setCapital(new ArrayList<>(vojvsCapitals.get(v).stream().map(v::getCity).toList()));
+        }
+
+        for(Powiat p : powiats) {
+            ArrayList<String> capitalStr = powiatsCapitals.get(p);
+            List<City> capital = capitalStr.stream().map(p::getCity).toList();
+            if(capital.getFirst() != null) {
+                p.setCapital(new ArrayList<>(capital));
+            } else {
+                Powiat cityPowiat = powiats.stream().filter(n -> n.vojv == p.vojv && n.name.equals(capitalStr.getFirst())).toList().getFirst();
+                p.setCityPowiatCapital(cityPowiat);
+            }
+        }
+    }
+
     private static <T extends Geography<T>> void writeGeographyElement(DataOutputStream writer, T element) throws IOException {
         writer.writeInt(element.id);
         writer.writeUTF(element.name);
-
-        writer.writeInt(element.capital.size());
-        for(String capital : element.capital) {
-            writer.writeUTF(capital);
-        }
 
         writer.writeInt(element.neighbours.size());
         for(T n : element.neighbours) {
@@ -134,17 +197,16 @@ public class PolandCreator {
             writer.writeInt(point.x);
             writer.writeInt(point.y);
         }
+
+        writer.writeInt(element.capital.size());
+        for(City capital : element.capital) {
+            writer.writeInt(capital.id);
+        }
     }
 
     static <T extends Geography<T>> GeographyData readGeographyElement(DataInputStream reader) throws IOException {
         int id = reader.readInt();
         String name = reader.readUTF();
-
-        int capitalsNumber = reader.readInt();
-        ArrayList<String> capital = new ArrayList<>();
-        for(int i = 0; i < capitalsNumber; i++) {
-            capital.add(reader.readUTF());
-        }
 
         ArrayList<Integer> neighboursIds = new ArrayList<>();
         int neighboursNumber = reader.readInt();
@@ -161,6 +223,13 @@ public class PolandCreator {
             int y = reader.readInt();
             points.add(new Point(x, y));
         }
+
+        int capitalsNumber = reader.readInt();
+        ArrayList<Integer> capital = new ArrayList<>();
+        for(int i = 0; i < capitalsNumber; i++) {
+            capital.add(reader.readInt());
+        }
+
         return new GeographyData(id, name, capital, pixels, points, neighboursIds);
     }
 
@@ -225,6 +294,6 @@ public class PolandCreator {
         }
     }
 
-    record GeographyData(int id, String name, ArrayList<String> capital, ArrayList<Point> pixels, ArrayList<Point> points, ArrayList<Integer> neighboursIds) {
+    record GeographyData(int id, String name, ArrayList<Integer> capital, ArrayList<Point> pixels, ArrayList<Point> points, ArrayList<Integer> neighboursIds) {
     }
 }

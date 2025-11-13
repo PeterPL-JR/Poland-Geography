@@ -1,0 +1,97 @@
+$ Lublin [327384]
+$ Zamość [57185]
+$ Chełm [55981]
+$ Biała Podlaska [53650]
+
+$ bialski
+Międzyrzec Podlaski [15146]
+Terespol [5036]
+Piszczac [2064]
+
+$ biłgorajski
+Biłgoraj [24476]
+Tarnogród [3065]
+Józefów [2271]
+Frampol [1309]
+Goraj [879]
+Turobin [797]
+
+$ chełmski
+Rejowiec Fabryczny [3935]
+Rejowiec [2042]
+Siedliszcze [1313]
+
+$ hrubieszowski
+Hrubieszów [15588]
+
+$ janowski
+Janów Lubelski [10665]
+Modliborzyce [1397]
+
+$ krasnostawski
+Krasnystaw [16961]
+Izbica [1647]
+
+$ kraśnicki
+Kraśnik [30667]
+Annopol [2266]
+Urzędów [1709]
+
+$ lubartowski
+Lubartów [19445]
+Kock [2825]
+Ostrów Lubelski [1888]
+Kamionka [1724]
+
+$ lubelski
+Bełżyce [5763]
+Bychawa [4388]
+
+$ łęczyński
+Łęczna [17290]
+
+$ łukowski
+Łuków [26765]
+Stoczek Łukowski [2306]
+
+$ opolski
+Poniatowa [8050]
+Opole Lubelskie [7675]
+Józefów nad Wisłą [776]
+
+$ parczewski
+Parczew [10054]
+
+$ puławski
+Puławy [43235]
+Nałęczów [3557]
+Kazimierz Dolny [3191]
+Kurów [2612]
+Końskowola [1966]
+Wąwolnica [882]
+
+$ radzyński
+Radzyń Podlaski [13949]
+Czemierniki [1288]
+
+$ rycki
+Dęblin [13769]
+Ryki [8823]
+
+$ świdnicki
+Świdnik [36318]
+Piaski [2407]
+
+$ tomaszowski
+Tomaszów Lubelski [17435]
+Lubycza Królewska [2077]
+Łaszczów [1916]
+Tyszowce [1799]
+
+$ włodawski
+Włodawa [11857]
+
+$ zamojski
+Szczebrzeszyn [4647]
+Krasnobród [2917]
+Zwierzyniec [2717]

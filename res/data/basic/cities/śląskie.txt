@@ -1,0 +1,108 @@
+$ Katowice [277884]
+$ Częstochowa [202415]
+$ Sosnowiec [183962]
+$ Gliwice [167568]
+$ Bielsko-Biała [163605]
+$ Zabrze [151542]
+$ Bytom [145346]
+$ Rybnik [129307]
+$ Ruda Śląska [128138]
+$ Tychy [120518]
+$ Dąbrowa Górnicza [111737]
+$ Chorzów [98897]
+$ Jaworzno [85695]
+$ Jastrzębie-Zdrój [80843]
+$ Mysłowice [70468]
+$ Siemianowice Śląskie [62571]
+$ Żory [61887]
+$ Piekary Śląskie [51193]
+$ Świętochłowice [44777]
+
+$ będziński
+Będzin [52858]
+Czeladź [29430]
+Wojkowice [8333]
+Sławków [6768]
+Siewierz [5783]
+
+$ bielski
+Czechowice-Dziedzice [34561]
+Szczyrk [5138]
+Wilamowice [3161]
+
+$ bieruńsko-lędziński
+Bieruń [18676]
+Lędziny [16221]
+Imielin [9432]
+
+$ cieszyński
+Cieszyn [32348]
+Ustroń [15809]
+Skoczów [13108]
+Wisła [10446]
+Strumień [3509]
+
+$ częstochowski
+Blachownia [8938]
+Koniecpol [5230]
+Olsztyn [2438]
+Przyrów [1085]
+
+$ gliwicki
+Knurów [35072]
+Pyskowice [17203]
+Toszek [3466]
+Sośnicowice [1976]
+
+$ kłobucki
+Kłobuck [12080]
+Krzepice [4058]
+
+$ lubliniecki
+Lubliniec [23077]
+Woźniki [4076]
+
+$ mikołowski
+Mikołów [41492]
+Orzesze [22231]
+Łaziska Górne [20883]
+
+$ myszkowski
+Myszków [28803]
+Żarki [4295]
+Koziegłowy [2371]
+
+$ pszczyński
+Pszczyna [24621]
+
+$ raciborski
+Racibórz [48898]
+Kuźnia Raciborska [4554]
+Krzanowice [1960]
+
+$ rybnicki
+Czerwionka-Leszczyny [26113]
+
+$ tarnogórski
+Tarnowskie Góry [61149]
+Radzionków [15946]
+Kalety [8052]
+Miasteczko Śląskie [6854]
+
+$ wodzisławski
+Wodzisław Śląski [44244]
+Rydułtowy [19889]
+Radlin [16650]
+Pszów [12807]
+
+$ zawierciański
+Zawiercie [45242]
+Poręba [7981]
+Łazy [6260]
+Ogrodzieniec [3801]
+Szczekociny [3276]
+Pilica [1731]
+Włodowice [1160]
+
+$ żywiecki
+Żywiec [29273]

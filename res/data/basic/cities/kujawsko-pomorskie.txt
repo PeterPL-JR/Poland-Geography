@@ -1,0 +1,94 @@
+$ Bydgoszcz [322464]
+$ Toruń [193224]
+$ Włocławek [98659]
+$ Grudziądz [87241]
+
+$ aleksandrowski
+Aleksandrów Kujawski [11362]
+Ciechocinek [9995]
+Nieszawa [1742]
+
+$ brodnicki
+Brodnica [27835]
+Jabłonowo Pomorskie [3598]
+Górzno [1336]
+
+$ bydgoski
+Solec Kujawski [15066]
+Koronowo [10544]
+
+$ chełmiński
+Chełmno [17721]
+
+$ golubsko-dobrzyński
+Golub-Dobrzyń [11038]
+Kowalewo Pomorskie [4013]
+
+$ grudziądzki
+Łasin [2982]
+Radzyń Chełmiński [1741]
+
+$ inowrocławski
+Inowrocław [66060]
+Kruszwica [8940]
+Janikowo [8011]
+Gniewkowo [6583]
+Pakość [5058]
+
+$ lipnowski
+Lipno [13206]
+Skępe [3361]
+Kikół [2002]
+Dobrzyń nad Wisłą [1924]
+Bobrowniki [1142]
+
+$ mogileński
+Mogilno [10766]
+Strzelno [5139]
+
+$ nakielski
+Nakło nad Notecią [16738]
+Szubin [9323]
+Kcynia [4162]
+Mrocza [4040]
+
+$ radziejowski
+Radziejów [4954]
+Piotrków Kujawski [4122]
+
+$ rypiński
+Rypin [15155]
+
+$ sępoleński
+Sępólno Krajeńskie [8609]
+Więcbork [5559]
+Kamień Krajeński [2316]
+
+$ świecki
+Świecie [24609]
+Nowe [5346]
+Pruszcz [2812]
+
+$ toruński
+Chełmża [13462]
+
+$ tucholski
+Tuchola [12789]
+
+$ wąbrzeski
+Wąbrzeźno [12657]
+
+$ włocławski
+Brześć Kujawski [4523]
+Kowal [3240]
+Lubraniec [2571]
+Izbica Kujawska [2379]
+Chodecz [1670]
+Lubień Kujawski [1296]
+
+$ żniński
+Żnin [12724]
+Barcin [6785]
+Łabiszyn [4258]
+Janowiec Wielkopolski [3592]
+Gąsawa [1404]

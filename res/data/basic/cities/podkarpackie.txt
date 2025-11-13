@@ -1,0 +1,96 @@
+$ Rzeszów [198540]
+$ Przemyśl [54878]
+$ Krosno [43454]
+$ Tarnobrzeg [42947]
+
+$ bieszczadzki
+Ustrzyki Dolne [8204]
+
+$ brzozowski
+Brzozów [7153]
+
+$ dębicki
+Dębica [42421]
+Pilzno [4950]
+Brzostek [2659]
+
+$ jarosławski
+Jarosław [34870]
+Radymno [4841]
+Pruchnik [3611]
+
+$ jasielski
+Jasło [32205]
+Kołaczyce [1351]
+
+$ kolbuszowski
+Kolbuszowa [8351]
+
+$ krośnieński
+Jedlicze [5429]
+Rymanów [3475]
+Dukla [1915]
+Iwonicz-Zdrój [1490]
+
+$ leski
+Lesko [5022]
+
+$ leżajski
+Leżajsk [12478]
+Nowa Sarzyna [5223]
+
+$ lubaczowski
+Lubaczów [11203]
+Oleszyce [2760]
+Narol [1934]
+Cieszanów [1774]
+
+$ łańcucki
+Łańcut [17776]
+
+$ mielecki
+Mielec [56286]
+Radomyśl Wielki [3469]
+Przecław [1834]
+
+$ niżański
+Nisko [14220]
+Rudnik nad Sanem [6281]
+Ulanów [1335]
+
+$ przemyski
+Bircza [973]
+Dubiecko [774]
+
+$ przeworski
+Przeworsk [14354]
+Kańczuga [2852]
+Sieniawa [1960]
+Jawornik Polski [1143]
+
+$ ropczycko-sędziszowski
+Ropczyce [15863]
+Sędziszów Małopolski [12423]
+
+$ rzeszowski
+Głogów Małopolski [11015]
+Boguchwała [6315]
+Dynów [5941]
+Tyczyn [4680]
+Sokołów Małopolski [4400]
+Błażowa [2054]
+
+$ sanocki
+Sanok [33677]
+Zagórz [4844]
+
+$ stalowowolski
+Stalowa Wola [53897]
+Zaklików [2725]
+
+$ strzyżowski
+Strzyżów [8296]
+
+$ tarnobrzeski
+Nowa Dęba [10173]
+Baranów Sandomierski [1386]

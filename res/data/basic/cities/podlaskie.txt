@@ -1,0 +1,66 @@
+$ Białystok [289685]
+$ Suwałki [68067]
+$ Łomża [59129]
+
+$ augustowski
+Augustów [28611]
+Lipsk [2019]
+
+$ białostocki
+Łapy [14196]
+Wasilków [12894]
+Czarna Białostocka [8446]
+Choroszcz [6240]
+Supraśl [4275]
+Michałowo [2696]
+Zabłudów [2508]
+Tykocin [1834]
+Suraż [949]
+
+$ bielski
+Bielsk Podlaski [23406]
+Brańsk [3459]
+
+$ grajewski
+Grajewo [20621]
+Szczuczyn [3055]
+Rajgród [1349]
+
+$ hajnowski
+Hajnówka [18560]
+Kleszczele [999]
+
+$ kolneński
+Kolno [9707]
+Stawiski [1977]
+
+$ łomżyński
+Nowogród [2067]
+Jedwabne [1667]
+
+$ moniecki
+Mońki [9290]
+Knyszyn [2617]
+Goniądz [1684]
+
+$ sejneński
+Sejny [4771]
+
+$ siemiatycki
+Siemiatycze [13221]
+Drohiczyn [1724]
+
+$ sokólski
+Sokółka [16830]
+Dąbrowa Białostocka [4924]
+Krynki [2088]
+Suchowola [1983]
+
+$ wysokomazowiecki
+Wysokie Mazowieckie [8938]
+Ciechanowiec [4307]
+Czyżew [2451]
+Szepietowo [1950]
+
+$ zambrowski
+Zambrów [20580]

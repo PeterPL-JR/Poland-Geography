@@ -1,0 +1,88 @@
+$ Olsztyn [165855]
+$ Elbląg [111580]
+
+$ bartoszycki
+Bartoszyce [20919]
+Górowo Iławeckie [3532]
+Bisztynek [2103]
+Sępopol [1858]
+
+$ braniewski
+Braniewo [15725]
+Pieniężno [2333]
+Frombork [1957]
+
+$ działdowski
+Działdowo [19859]
+Lidzbark [7069]
+
+$ elbląski
+Pasłęk [11540]
+Tolkmicko [2362]
+Młynary [1634]
+
+$ ełcki
+Ełk [59127]
+
+$ giżycki
+Giżycko [26639]
+Ryn [2611]
+
+$ gołdapski
+Gołdap [13018]
+
+$ iławski
+Iława [31909]
+Lubawa [10644]
+Susz [5163]
+Zalewo [1977]
+Kisielice [1975]
+
+$ kętrzyński
+Kętrzyn [24626]
+Reszel [3925]
+Korsze [3848]
+
+$ lidzbarski
+Lidzbark Warmiński [14205]
+Orneta [7835]
+
+$ mrągowski
+Mrągowo [20158]
+Mikołajki [3233]
+
+$ nidzicki
+Nidzica [12334]
+
+$ nowomiejski
+Nowe Miasto Lubawskie [9950]
+
+$ olecki
+Olecko [15517]
+
+$ olsztyński
+Biskupiec [9793]
+Dobre Miasto [9171]
+Barczewo [7310]
+Olsztynek [7149]
+Jeziorany [2887]
+
+$ ostródzki
+Ostróda [30864]
+Morąg [12442]
+Miłomłyn [2421]
+Miłakowo [2377]
+
+$ piski
+Pisz [17260]
+Orzysz [5185]
+Ruciane-Nida [3984]
+Biała Piska [3624]
+
+$ szczycieński
+Szczytno [21423]
+Wielbark [2952]
+Pasym [2370]
+
+$ węgorzewski
+Węgorzewo [10431]

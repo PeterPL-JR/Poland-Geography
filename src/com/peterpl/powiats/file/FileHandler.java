@@ -38,7 +38,7 @@ public class FileHandler {
     }
 
     public static ArrayList<String> readResourceFileLines(String path) {
-        try(BufferedReader reader = new BufferedReader(new FileReader(FileHandler.class.getResource("/" + path).getFile()))) {
+        try(BufferedReader reader = new BufferedReader(new InputStreamReader(FileHandler.class.getResourceAsStream("/" + path)))) {
             return readFileLines(reader);
         } catch (Exception e) {
             e.printStackTrace();

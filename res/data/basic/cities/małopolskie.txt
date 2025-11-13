@@ -1,0 +1,102 @@
+$ Kraków [810590]
+$ Tarnów [101614]
+$ Nowy Sącz [79555]
+
+$ bocheński
+Bochnia [28271]
+Nowy Wiśnicz [2717]
+
+$ brzeski
+Brzesko [15759]
+Czchów [2243]
+
+$ chrzanowski
+Chrzanów [33349]
+Trzebinia [18187]
+Libiąż [15719]
+Alwernia [3177]
+
+$ dąbrowski
+Dąbrowa Tarnowska [11356]
+Szczucin [4045]
+
+$ gorlicki
+Gorlice [24972]
+Biecz [4237]
+Bobowa [3051]
+
+$ krakowski
+Skawina [23813]
+Krzeszowice [9750]
+Słomniki [4144]
+Skała [3832]
+Świątniki Górne [2390]
+
+$ limanowski
+Limanowa [14293]
+Mszana Dolna [7808]
+
+$ miechowski
+Miechów [10814]
+Książ Wielki [841]
+
+$ myślenicki
+Myślenice [17643]
+Sułkowice [6517]
+Dobczyce [6109]
+
+$ nowosądecki
+Krynica-Zdrój [9377]
+Stary Sącz [8580]
+Grybów [5877]
+Piwniczna-Zdrój [5301]
+Muszyna [4416]
+
+$ nowotarski
+Nowy Targ [33045]
+Rabka-Zdrój [12088]
+Szczawnica [5162]
+Czarny Dunajec [3630]
+
+$ olkuski
+Olkusz [31688]
+Bukowno [9182]
+Wolbrom [7946]
+
+$ oświęcimski
+Oświęcim [35121]
+Kęty [17479]
+Brzeszcze [10458]
+Chełmek [8219]
+Zator [3555]
+
+$ proszowicki
+Proszowice [5701]
+Nowe Brzesko [1593]
+Koszyce [764]
+
+$ suski
+Sucha Beskidzka [8711]
+Maków Podhalański [5460]
+Jordanów [5377]
+
+$ tarnowski
+Tuchów [6106]
+Żabno [4079]
+Wojnicz [3115]
+Radłów [2692]
+Ryglice [2632]
+Ciężkowice [2482]
+Zakliczyn [1563]
+
+$ tatrzański
+Zakopane [24988]
+
+$ wadowicki
+Andrychów [17941]
+Wadowice [16825]
+Kalwaria Zebrzydowska [4247]
+
+$ wielicki
+Wieliczka [28399]
+Niepołomice [17450]

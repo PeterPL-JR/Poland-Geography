@@ -1,0 +1,185 @@
+$ Warszawa [1864035]
+$ Radom [192838]
+$ Płock [109349]
+$ Siedlce [74504]
+$ Ostrołęka [47443]
+
+$ białobrzeski
+Białobrzegi [6347]
+Wyśmierzyce [861]
+
+$ ciechanowski
+Ciechanów [41326]
+Glinojeck [2739]
+
+$ garwoliński
+Garwolin [17274]
+Łaskarzew [4421]
+Pilawa [4419]
+Żelechów [3625]
+Maciejowice [1407]
+
+$ gostyniński
+Gostynin [16566]
+Sanniki [1701]
+
+$ grodziski
+Grodzisk Mazowiecki [35365]
+Milanówek [16300]
+Podkowa Leśna [3734]
+
+$ grójecki
+Grójec [16720]
+Warka [11864]
+Nowe Miasto nad Pilicą [3397]
+Mogielnica [2102]
+
+$ kozienicki
+Kozienice [15138]
+Magnuszew [973]
+Głowaczów [800]
+
+$ legionowski
+Legionowo [52034]
+Serock [5441]
+
+$ lipski
+Lipsko [4870]
+Sienno [948]
+Solec nad Wisłą [894]
+Ciepielów [706]
+
+$ łosicki
+Łosice [6742]
+
+$ makowski
+Maków Mazowiecki [8731]
+Różan [2561]
+
+$ miński
+Mińsk Mazowiecki [39580]
+Sulejówek [21669]
+Halinów [3675]
+Mrozy [3606]
+Kałuszyn [2665]
+Cegłów [2356]
+Siennica [2284]
+Dobre [1821]
+Latowicz [1330]
+
+$ mławski
+Mława [30680]
+
+$ nowodworski
+Nowy Dwór Mazowiecki [28413]
+Nasielsk [7295]
+Zakroczym [3097]
+
+$ ostrołęcki
+Myszyniec [3154]
+
+$ ostrowski
+Ostrów Mazowiecka [21324]
+Brok [1688]
+
+$ otwocki
+Otwock [43320]
+Józefów [21175]
+Karczew [9120]
+Osieck [1114]
+
+$ piaseczyński
+Piaseczno [51584]
+Konstancin-Jeziorna [16719]
+Góra Kalwaria [12294]
+Tarczyn [4369]
+
+$ płocki
+Gąbin [4082]
+Drobin [2597]
+Wyszogród [2330]
+Bodzanów [1126]
+
+$ płoński
+Płońsk [21353]
+Raciąż [3878]
+Sochocin [1880]
+Nowe Miasto [1509]
+Czerwińsk nad Wisłą [976]
+
+$ pruszkowski
+Pruszków [65886]
+Piastów [22671]
+Brwinów [14664]
+
+$ przasnyski
+Przasnysz [16105]
+Chorzele [2870]
+
+$ przysuski
+Przysucha [5143]
+Odrzywół [991]
+Gielniów [767]
+
+$ pułtuski
+Pułtusk [18943]
+
+$ radomski
+Pionki [15680]
+Skaryszew [4444]
+Iłża [4138]
+Jedlnia-Letnisko [3963]
+Przytyk [902]
+
+$ siedlecki
+Mordy [1552]
+
+$ sierpecki
+Sierpc [16640]
+
+$ sochaczewski
+Sochaczew [32941]
+
+$ sokołowski
+Sokołów Podlaski [18156]
+Kosów Lacki [1954]
+
+$ szydłowiecki
+Szydłowiec [10325]
+Jastrząb [1184]
+
+$ warszawski zachodni
+Łomianki [18190]
+Ożarów Mazowiecki [16209]
+Błonie [12177]
+
+$ węgrowski
+Węgrów [11662]
+Łochów [6519]
+
+$ wołomiński
+Marki [46676]
+Ząbki [45654]
+Wołomin [35217]
+Kobyłka [28700]
+Zielonka [18031]
+Radzymin [15605]
+Tłuszcz [8055]
+Jadów [897]
+
+$ wyszkowski
+Wyszków [25743]
+
+$ zwoleński
+Zwoleń [7001]
+Kazanów [396]
+
+$ żuromiński
+Żuromin [8353]
+Bieżuń [1668]
+Lubowidz [1471]
+
+$ żyrardowski
+Żyrardów [38306]
+Mszczonów [5989]
+Wiskitki [1474]

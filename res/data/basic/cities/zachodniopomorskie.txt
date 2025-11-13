@@ -1,0 +1,102 @@
+$ Szczecin [385158]
+$ Koszalin [104872]
+$ Świnoujście [38360]
+
+$ białogardzki
+Białogard [22035]
+Karlino [5415]
+Tychowo [2303]
+
+$ choszczeński
+Choszczno [13700]
+Recz [2604]
+Pełczyce [2416]
+Drawno [2128]
+
+$ drawski
+Złocieniec [11834]
+Drawsko Pomorskie [11110]
+Czaplinek [6562]
+Kalisz Pomorski [3996]
+
+$ goleniowski
+Goleniów [21286]
+Nowogard [15479]
+Maszewo [3289]
+Stepnica [2482]
+
+$ gryficki
+Gryfice [15165]
+Trzebiatów [9227]
+Płoty [3649]
+
+$ gryfiński
+Gryfino [19454]
+Chojna [7318]
+Mieszkowice [3312]
+Trzcińsko-Zdrój [2123]
+Moryń [1613]
+Cedynia [1438]
+
+$ kamieński
+Kamień Pomorski [8090]
+Międzyzdroje [4796]
+Wolin [4575]
+Golczewo [2468]
+Dziwnów [2267]
+
+$ kołobrzeski
+Kołobrzeg [43225]
+Gościno [2798]
+
+$ koszaliński
+Sianów [6670]
+Bobolice [3623]
+Polanów [2776]
+Mielno [2677]
+
+$ łobeski
+Łobez [9403]
+Resko [3792]
+Węgorzyno [2574]
+Dobra [1986]
+
+$ myśliborski
+Barlinek [12714]
+Dębno [12709]
+Myślibórz [10248]
+
+$ policki
+Police [29157]
+Nowe Warpno [1037]
+
+$ pyrzycki
+Pyrzyce [11622]
+Lipiany [3714]
+
+$ sławieński
+Darłowo [12283]
+Sławno [11537]
+
+$ stargardzki
+Stargard [65848]
+Chociwel [2922]
+Dobrzany [2124]
+Ińsko [1728]
+Suchań [1389]
+
+$ szczecinecki
+Szczecinek [37136]
+Borne Sulinowo [4772]
+Barwice [3362]
+Biały Bór [2070]
+
+$ świdwiński
+Świdwin [14333]
+Połczyn-Zdrój [7096]
+
+$ wałecki
+Wałcz [23117]
+Mirosławiec [2948]
+Człopa [2097]
+Tuczno [1745]

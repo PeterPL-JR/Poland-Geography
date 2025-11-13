@@ -4,12 +4,15 @@ import java.util.*;
 
 public class Vojv extends Geography<Vojv> {
     private final ArrayList<Powiat> powiats = new ArrayList<>();
-
     private final HashMap<Integer, Powiat> idPowiats = new HashMap<>();
     private final HashMap<String, Powiat> namePowiats = new HashMap<>();
 
-    public Vojv(int id, String name, ArrayList<String> capital) {
-        super(id, name, capital);
+    private final ArrayList<City> cities = new ArrayList<>();
+    private final HashMap<Integer, City> idCities = new HashMap<>();
+    private final HashMap<String, City> nameCities = new HashMap<>();
+
+    public Vojv(int id, String name) {
+        super(id, name);
     }
 
     public ArrayList<Powiat> getPowiats() {
@@ -31,8 +34,27 @@ public class Vojv extends Geography<Vojv> {
         namePowiats.put(powiat.name, powiat);
     }
 
+    public ArrayList<City> getCities() {
+        return new ArrayList<>(cities);
+    }
+
+    public City getCity(String name) {
+        return nameCities.get(name);
+    }
+
+    public City getCity(int id) {
+        return idCities.get(id);
+    }
+
+    protected void addCity(City city) {
+        cities.add(city);
+
+        idCities.put(city.id, city);
+        nameCities.put(city.name, city);
+    }
+
     @Override
     public String toString() {
-        return name + " " + capital;
+        return name + " " + capital.stream().map(City::toSimpleString).toList();
     }
 }

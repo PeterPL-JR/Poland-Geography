@@ -1,0 +1,68 @@
+$ Zielona Góra [138760]
+$ Gorzów Wielkopolski [114076]
+
+$ gorzowski
+Kostrzyn nad Odrą [17335]
+Witnica [6339]
+
+$ krośnieński
+Gubin [15297]
+Krosno Odrzańskie [10246]
+
+$ międzyrzecki
+Międzyrzecz [16478]
+Skwierzyna [8922]
+Trzciel [2205]
+
+$ nowosolski
+Nowa Sól [35335]
+Kożuchów [8759]
+Bytom Odrzański [3854]
+Nowe Miasteczko [2598]
+Otyń [1816]
+
+$ słubicki
+Słubice [16040]
+Rzepin [6304]
+Ośno Lubuskie [3850]
+Cybinka [2633]
+
+$ strzelecko-drezdenecki
+Strzelce Krajeńskie [9560]
+Drezdenko [9296]
+Dobiegniew [2986]
+
+$ sulęciński
+Sulęcin [9582]
+Torzym [2361]
+Lubniewice [1976]
+
+$ świebodziński
+Świebodzin [20565]
+Zbąszynek [4816]
+
+$ wschowski
+Wschowa [12758]
+Sława [4043]
+Szlichtyngowa [1223]
+
+$ zielonogórski
+Sulechów [15260]
+Nowogród Bobrzański [4636]
+Kargowa [3793]
+Babimost [3753]
+Czerwieńsk [3686]
+
+$ żagański
+Żagań [22976]
+Szprotawa [10296]
+Iłowa [3520]
+Małomice [3392]
+Gozdnica [2661]
+
+$ żarski
+Żary [34137]
+Lubsko [12630]
+Jasień [3955]
+Łęknica [2180]
+Brody [835]

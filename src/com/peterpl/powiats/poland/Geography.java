@@ -9,19 +9,22 @@ public abstract class Geography<T extends Geography<T>> {
     public final int id;
     public final String name;
 
-    protected final ArrayList<String> capital;
+    protected ArrayList<City> capital = new ArrayList<>();
     protected ArrayList<T> neighbours = new ArrayList<>();
     protected ArrayList<Point> pixels = new ArrayList<>();
     protected ArrayList<Point> points = new ArrayList<>();
 
-    public Geography(int id, String name, ArrayList<String> capital) {
+    public Geography(int id, String name) {
         this.id = id;
         this.name = name;
-        this.capital = capital;
     }
 
-    public ArrayList<String> getCapital() {
-        return capital;
+    public ArrayList<City> getCapital() {
+        return new ArrayList<>(capital);
+    }
+
+    protected void setCapital(ArrayList<City> capital) {
+        this.capital = capital;
     }
 
     public ArrayList<T> getNeighbours() {

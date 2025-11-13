@@ -1,0 +1,145 @@
+$ Wrocław [672545]
+$ Wałbrzych [98150]
+$ Legnica [90343]
+$ Jelenia Góra [73849]
+
+$ bolesławiecki
+Bolesławiec [36663]
+Nowogrodziec [4047]
+
+$ dzierżoniowski
+Dzierżoniów [30169]
+Bielawa [27554]
+Pieszyce [6725]
+Piława Górna [5817]
+Niemcza [2634]
+
+$ głogowski
+Głogów [60893]
+
+$ górowski
+Góra [10523]
+Wąsosz [2506]
+
+$ jaworski
+Jawor [20134]
+Bolków [4568]
+
+$ kamiennogórski
+Kamienna Góra [16742]
+Lubawka [5427]
+
+$ karkonoski
+Kowary [9439]
+Piechowice [5636]
+Szklarska Poręba [5546]
+Karpacz [4113]
+
+$ kłodzki
+Kłodzko [24363]
+Nowa Ruda [19923]
+Kudowa-Zdrój [9104]
+Bystrzyca Kłodzka [8724]
+Polanica-Zdrój [5755]
+Stronie Śląskie [4843]
+Lądek-Zdrój [4827]
+Szczytna [4734]
+Duszniki-Zdrój [3859]
+Międzylesie [2334]
+Radków [2188]
+
+$ legnicki
+Chojnów [12141]
+Prochowice [3448]
+
+$ lubański
+Lubań [19135]
+Olszyna [4267]
+Leśna [3898]
+Świeradów-Zdrój [3874]
+
+$ lubiński
+Lubin [66422]
+Ścinawa [5204]
+
+$ lwówecki
+Lwówek Śląski [7938]
+Gryfów Śląski [6020]
+Mirsk [3524]
+Lubomierz [1760]
+Wleń [1548]
+
+$ milicki
+Milicz [10557]
+
+$ oleśnicki
+Oleśnica [34799]
+Syców [9859]
+Twardogóra [6094]
+Bierutów [4399]
+Międzybórz [2286]
+
+$ oławski
+Oława [33029]
+Jelcz-Laskowice [14817]
+
+$ polkowicki
+Polkowice [20968]
+Chocianów [7227]
+Przemków [5465]
+
+$ strzeliński
+Strzelin [11799]
+Wiązów [2227]
+
+$ średzki
+Środa Śląska [9496]
+Miękinia [2225]
+
+$ świdnicki
+Świdnica [51701]
+Świebodzice [21534]
+Strzegom [14706]
+Żarów [6304]
+Jaworzyna Śląska [5001]
+
+$ trzebnicki
+Trzebnica [13579]
+Oborniki Śląskie [8872]
+Żmigród [6181]
+Prusice [2102]
+
+$ wałbrzyski
+Boguszów-Gorce [14008]
+Głuszyca [5789]
+Szczawno-Zdrój [5121]
+Jedlina-Zdrój [4551]
+Mieroszów [3648]
+
+$ wołowski
+Brzeg Dolny [12293]
+Wołów [11895]
+
+$ wrocławski
+Siechnice [11537]
+Sobótka [7112]
+Kąty Wrocławskie [7083]
+
+$ ząbkowicki
+Ząbkowice Śląskie [13924]
+Ziębice [7795]
+Kamieniec Ząbkowicki [4273]
+Złoty Stok [2370]
+Bardo [2256]
+
+$ zgorzelecki
+Zgorzelec [28223]
+Bogatynia [15746]
+Pieńsk [5373]
+Zawidów [3715]
+Węgliniec [2618]
+
+$ złotoryjski
+Złotoryja [13863]
+Wojcieszów [3361]
+Świerzawa [1955]

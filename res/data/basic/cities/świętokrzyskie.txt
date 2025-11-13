@@ -1,0 +1,77 @@
+$ Kielce [179694]
+
+$ buski
+Busko-Zdrój [14019]
+Stopnica [1098]
+Pacanów [1021]
+Nowy Korczyn [876]
+Wiślica [446]
+
+$ jędrzejowski
+Jędrzejów [13742]
+Sędziszów [6044]
+Małogoszcz [3290]
+Sobków [989]
+Wodzisław [908]
+
+$ kazimierski
+Kazimierza Wielka [4938]
+Skalbmierz [1175]
+Opatowiec [306]
+
+$ kielecki
+Chęciny [4282]
+Chmielnik [3320]
+Piekoszów [2972]
+Daleszyce [2712]
+Bodzentyn [2053]
+Morawica [1711]
+Łagów [1503]
+Łopuszno [1432]
+Nowa Słupia [1265]
+Pierzchnica [1173]
+
+$ konecki
+Końskie [17036]
+Stąporków [4982]
+Radoszyce [2736]
+Gowarczów [1290]
+
+$ opatowski
+Opatów [5769]
+Ożarów [4083]
+Iwaniska [1200]
+
+$ ostrowiecki
+Ostrowiec Świętokrzyski [60695]
+Ćmielów [2733]
+Kunów [2669]
+
+$ pińczowski
+Pińczów [9492]
+Działoszyce [822]
+
+$ sandomierski
+Sandomierz [20834]
+Koprzywnica [2332]
+Klimontów [1714]
+Zawichost [1567]
+
+$ skarżyski
+Skarżysko-Kamienna [40360]
+Suchedniów [7307]
+
+$ starachowicki
+Starachowice [43516]
+Wąchock [2391]
+
+$ staszowski
+Staszów [13278]
+Połaniec [7286]
+Osiek [1947]
+Oleśnica [1708]
+Bogoria [1092]
+Szydłów [944]
+
+$ włoszczowski
+Włoszczowa [9352]

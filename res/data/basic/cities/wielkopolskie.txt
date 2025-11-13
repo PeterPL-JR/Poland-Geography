@@ -1,0 +1,182 @@
+$ Poznań [534913]
+$ Kalisz [91515]
+$ Konin [65570]
+$ Leszno [59143]
+
+$ chodzieski
+Chodzież [16915]
+Budzyń [4653]
+Szamocin [3870]
+Margonin [2933]
+
+$ czarnkowsko-trzcianecki
+Trzcianka [16280]
+Czarnków [9703]
+Krzyż Wielkopolski [5776]
+Wieleń [5485]
+
+$ gnieźnieński
+Gniezno [62424]
+Witkowo [7355]
+Trzemeszno [7181]
+Czerniejewo [2532]
+Kłecko [2471]
+
+$ gostyński
+Gostyń [19588]
+Krobia [4554]
+Poniec [2898]
+Borek Wielkopolski [2412]
+Pogorzela [2036]
+
+$ grodziski
+Grodzisk Wielkopolski [15109]
+Rakoniewice [3632]
+Wielichowo [1639]
+
+$ jarociński
+Jarocin [26260]
+Żerków [2066]
+Jaraczewo [1374]
+
+$ kaliski
+Opatówek [3461]
+Koźminek [1820]
+Stawiszyn [1349]
+
+$ kępiński
+Kępno [13350]
+Rychtal [1326]
+
+$ kolski
+Koło [18923]
+Kłodawa [5746]
+Dąbie [1668]
+Przedecz [1476]
+
+$ koniński
+Golina [4218]
+Kleczew [3814]
+Sompolno [3300]
+Ślesin [3051]
+Rychwał [2348]
+
+$ kościański
+Kościan [22989]
+Śmigiel [5577]
+Czempiń [5038]
+Krzywiń [1656]
+
+$ krotoszyński
+Krotoszyn [27914]
+Koźmin Wielkopolski [6029]
+Zduny [4236]
+Kobylin [3176]
+Sulmierzyce [2698]
+
+$ leszczyński
+Rydzyna [2887]
+Osieczna [2427]
+
+$ międzychodzki
+Międzychód [9835]
+Sieraków [5739]
+
+$ nowotomyski
+Nowy Tomyśl [13363]
+Opalenica [9188]
+Zbąszyń [6964]
+Lwówek [2892]
+
+$ obornicki
+Oborniki [16994]
+Rogoźno [10687]
+
+$ ostrowski
+Ostrów Wielkopolski [68333]
+Odolanów [4903]
+Nowe Skalmierzyce [4524]
+Raszków [2061]
+
+$ ostrzeszowski
+Ostrzeszów [13392]
+Grabów nad Prosną [1900]
+Mikstat [1659]
+
+$ pilski
+Piła [69074]
+Wyrzysk [5053]
+Ujście [3277]
+Kaczory [2754]
+Łobżenica [2734]
+Wysoka [2468]
+Miasteczko Krajeńskie [1060]
+
+$ pleszewski
+Pleszew [16387]
+Dobrzyca [2892]
+Chocz [1592]
+
+$ poznański
+Luboń [32785]
+Swarzędz [27709]
+Mosina [14495]
+Murowana Goślina [10275]
+Pobiedziska [9918]
+Kostrzyn [9849]
+Puszczykowo [9198]
+Kórnik [8104]
+Stęszew [5828]
+Buk [5443]
+
+$ rawicki
+Rawicz [19369]
+Miejska Górka [3026]
+Bojanowo [2775]
+Jutrosin [1834]
+
+$ słupecki
+Słupca [12715]
+Zagórów [2688]
+
+$ szamotulski
+Szamotuły [17994]
+Wronki [10328]
+Pniewy [8015]
+Obrzycko [2390]
+Ostroróg [1812]
+
+$ średzki
+Środa Wielkopolska [24286]
+Zaniemyśl [2432]
+
+$ śremski
+Śrem [27289]
+Książ Wielkopolski [2934]
+Dolsk [1529]
+
+$ turecki
+Turek [23979]
+Tuliszków [2962]
+Dobra [1291]
+
+$ wągrowiecki
+Wągrowiec [25302]
+Skoki [4828]
+Gołańcz [3128]
+Mieścisko [2397]
+
+$ wolsztyński
+Wolsztyn [11681]
+
+$ wrzesiński
+Września [31668]
+Nekla [3860]
+Miłosław [3364]
+Pyzdry [2893]
+
+$ złotowski
+Złotów [17904]
+Jastrowie [8166]
+Okonek [3536]
+Krajenka [3417]

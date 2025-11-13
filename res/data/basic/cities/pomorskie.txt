@@ -1,0 +1,75 @@
+$ Gdańsk [489160]
+$ Gdynia [239325]
+$ Słupsk [84409]
+$ Sopot [31300]
+
+$ bytowski
+Bytów [16089]
+Miastko [9120]
+
+$ chojnicki
+Chojnice [38225]
+Czersk [9729]
+Brusy [5032]
+
+$ człuchowski
+Człuchów [12821]
+Czarne [5500]
+Debrzno [4774]
+
+$ gdański
+Pruszcz Gdański [32257]
+
+$ kartuski
+Kartuzy [13540]
+Żukowo [6718]
+
+$ kościerski
+Kościerzyna [23250]
+
+$ kwidzyński
+Kwidzyn [36375]
+Prabuty [7953]
+
+$ lęborski
+Lębork [33687]
+Łeba [2996]
+
+$ malborski
+Malbork [36339]
+Nowy Staw [3894]
+
+$ nowodworski
+Nowy Dwór Gdański [9335]
+Krynica Morska [1143]
+
+$ pucki
+Puck [10289]
+Władysławowo [9037]
+Hel [2687]
+Jastarnia [2556]
+
+$ słupski
+Ustka [13310]
+Kobylnica [4998]
+Kępice [3206]
+
+$ starogardzki
+Starogard Gdański [44870]
+Skarszewy [6523]
+Skórcz [3426]
+Czarna Woda [2634]
+
+$ sztumski
+Sztum [8781]
+Dzierzgoń [4781]
+
+$ tczewski
+Tczew [56170]
+Pelplin [7045]
+Gniew [5974]
+
+$ wejherowski
+Rumia [53949]
+Wejherowo [45308]
+Reda [29017]

@@ -1,0 +1,59 @@
+$ Opole [125095]
+
+$ brzeski
+Brzeg [32910]
+Grodków [7723]
+Lewin Brzeski [5489]
+
+$ głubczycki
+Głubczyce [11376]
+Kietrz [5365]
+Baborów [2691]
+
+$ kędzierzyńsko-kozielski
+Kędzierzyn-Koźle [53473]
+
+$ kluczborski
+Kluczbork [21470]
+Wołczyn [5235]
+Byczyna [3279]
+
+$ krapkowicki
+Krapkowice [15080]
+Zdzieszowice [9984]
+Gogolin [6428]
+Strzeleczki [1525]
+
+$ namysłowski
+Namysłów [16713]
+
+$ nyski
+Nysa [40026]
+Głuchołazy [12353]
+Paczków [6492]
+Otmuchów [6058]
+Korfantów [1689]
+
+$ oleski
+Olesno [8940]
+Praszka [6921]
+Dobrodzień [3414]
+Gorzów Śląski [2416]
+
+$ opolski
+Ozimek [7717]
+Niemodlin [5671]
+Tułowice [3576]
+Prószków [2548]
+
+$ prudnicki
+Prudnik [18496]
+Głogówek [5386]
+Biała [2213]
+
+$ strzelecki
+Strzelce Opolskie [16644]
+Zawadzkie [6251]
+Kolonowskie [3186]
+Leśnica [2517]
+Ujazd [1839]

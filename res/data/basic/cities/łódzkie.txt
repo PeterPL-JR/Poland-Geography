@@ -1,0 +1,102 @@
+$ Łódź [642590]
+$ Piotrków Trybunalski [65676]
+$ Skierniewice [44958]
+
+$ bełchatowski
+Bełchatów [51247]
+Zelów [6892]
+
+$ brzeziński
+Brzeziny [11822]
+Jeżów [1252]
+
+$ kutnowski
+Kutno [40095]
+Żychlin [7335]
+Krośniewice [3906]
+Dąbrowice [940]
+
+$ łaski
+Łask [15728]
+
+$ łęczycki
+Łęczyca [12760]
+Piątek [1517]
+Grabów [1009]
+
+$ łowicki
+Łowicz [25429]
+Kiernozia [790]
+
+$ łódzki wschodni
+Koluszki [11882]
+Tuszyn [7119]
+Rzgów [3447]
+
+$ opoczyński
+Opoczno [18520]
+Drzewica [3434]
+Żarnów [1102]
+Białaczów [1098]
+
+$ pabianicki
+Pabianice [59598]
+Konstantynów Łódzki [19279]
+Lutomiersk [1554]
+
+$ pajęczański
+Pajęczno [6241]
+Działoszyn [5128]
+
+$ piotrkowski
+Sulejów [5860]
+Wolbórz [2223]
+Rozprza [1627]
+
+$ poddębicki
+Poddębice [6613]
+Uniejów [2967]
+
+$ radomszczański
+Radomsko [42133]
+Przedbórz [3076]
+Kamieńsk [2590]
+
+$ rawski
+Rawa Mazowiecka [15646]
+Biała Rawska [2903]
+
+$ sieradzki
+Sieradz [38021]
+Złoczew [3375]
+Warta [2854]
+Błaszki [1920]
+
+$ skierniewicki
+Bolimów [889]
+
+$ tomaszowski
+Tomaszów Mazowiecki [56347]
+Ujazd [1482]
+Inowłódz [766]
+
+$ wieluński
+Wieluń [19953]
+Osjaków [1330]
+
+$ wieruszowski
+Wieruszów [8195]
+Lututów [2156]
+Bolesławiec [870]
+
+$ zduńskowolski
+Zduńska Wola [37675]
+Szadek [1752]
+
+$ zgierski
+Zgierz [52628]
+Aleksandrów Łódzki [21976]
+Ozorków [17748]
+Głowno [12889]
+Stryków [3309]
+Parzęczew [926]
