@@ -91,8 +91,12 @@ public class MapPaint {
         stack.add(point);
     }
 
+    public static <T extends Geography<T>> void fillGeography(Img map, T elem, int colour) {
+        set(map, elem.getPixels(), colour);
+    }
+
     public static void fillVojv(Img vojvsMap, Vojv vojv, int colour) {
-        set(vojvsMap, vojv.getPixels(), colour);
+        fillGeography(vojvsMap, vojv, colour);
     }
 
     public static void fillVojv(Img vojvsMap, String vojv, int colour) {
@@ -100,7 +104,7 @@ public class MapPaint {
     }
 
     public static void fillPowiat(Img powiatsMap, Powiat powiat, int colour) {
-        set(powiatsMap, powiat.getPixels(), colour);
+        fillGeography(powiatsMap, powiat, colour);
     }
 
     public static void fillPowiat(Img powiatsMap, String powiat, String vojv, int colour) {
