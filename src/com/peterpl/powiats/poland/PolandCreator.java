@@ -61,7 +61,7 @@ public class PolandCreator {
     private static void loadVojvs() {
         HashMap<Vojv, Img> images = new HashMap<>();
         int i = 0;
-        ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/vojvs.txt");
+        ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/data/vojvs.txt");
         for(String line : lines) {
             int separator = line.indexOf("[");
             int id = i;
@@ -73,7 +73,7 @@ public class PolandCreator {
             vojvs.add(v);
             vojvsCapitals.put(v, capital);
 
-            Img img = ImgHandler.readResourceImg("data/basic/vojvs/" + name);
+            Img img = ImgHandler.readResourceImg("data/basic/map/vojvs/" + name);
             ArrayList<Point> pixels = MapPaint.getPixels(img, Poland.MAIN_COLOUR);
             v.setPixels(pixels);
             MapPaint.set(vojvsImg, pixels, id);
@@ -85,7 +85,7 @@ public class PolandCreator {
     private static void loadPowiats() {
         HashMap<Powiat, Img> images = new HashMap<>();
         int i = 0;
-        ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/powiats.txt");
+        ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/data/powiats.txt");
         Vojv vojv = null;
         for(String line : lines) {
             if(line.isEmpty()) continue;
@@ -113,7 +113,7 @@ public class PolandCreator {
             powiatsCapitals.put(p, capital);
             vojv.addPowiat(p);
 
-            Img img = ImgHandler.readResourceImg("data/basic/powiats/" + vojv.name + "/" + name);
+            Img img = ImgHandler.readResourceImg("data/basic/map/powiats/" + vojv.name + "/" + name);
             ArrayList<Point> pixels = MapPaint.getPixels(img, Poland.MAIN_COLOUR);
             p.setPixels(pixels);
             MapPaint.set(powiatsImg, pixels, id);
@@ -132,7 +132,7 @@ public class PolandCreator {
     private static void loadCities() {
         int id = 0;
         for(Vojv v : vojvs) {
-            ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/cities/" + v.name + ".txt");
+            ArrayList<String> lines = FileHandler.readResourceFileLines("data/basic/data/cities/" + v.name + ".txt");
             ArrayList<Powiat> vojvPowiats = v.getPowiats();
             Powiat powiat = null;
             for(String line : lines) {

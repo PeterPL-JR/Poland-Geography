@@ -15,7 +15,7 @@ public class Poland {
     public static final int MAIN_COLOUR = 0xffff0000;
     public static final int NEIGHBOUR_COLOUR = 0xff660000;
     public static final int VOJV_BORDER = 0xffffffff;
-    public static final int POWIAT_BORDER = 0xffd3d3d3;
+    public static final int POWIAT_BORDER = 0xffc0c0c0;
 
     private static final ArrayList<Vojv> vojvs = new ArrayList<>();
     private static final ArrayList<Powiat> powiats = new ArrayList<>();
@@ -215,5 +215,4 @@ public class Poland {
     public static City getCity(int id) {
         return idCities.get(id);
     }
-
 }
