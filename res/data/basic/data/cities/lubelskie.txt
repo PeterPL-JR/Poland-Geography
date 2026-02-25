@@ -6,6 +6,7 @@ $ Biała Podlaska [53650]
 $ bialski
 Międzyrzec Podlaski [15146]
 Terespol [5036]
+Janów Podlaski [2659]
 Piszczac [2064]
 
 $ biłgorajski

@@ -9,6 +9,7 @@ $ głubczycki
 Głubczyce [11376]
 Kietrz [5365]
 Baborów [2691]
+Branice [1996]
 
 $ kędzierzyńsko-kozielski
 Kędzierzyn-Koźle [53473]

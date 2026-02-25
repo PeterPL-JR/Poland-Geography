@@ -47,6 +47,7 @@ Blachownia [8938]
 Koniecpol [5230]
 Olsztyn [2438]
 Przyrów [1085]
+Janów [1000]
 
 $ gliwicki
 Knurów [35072]

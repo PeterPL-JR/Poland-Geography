@@ -65,6 +65,7 @@ Kałuszyn [2665]
 Cegłów [2356]
 Siennica [2284]
 Dobre [1821]
+Stanisławów [1770]
 Latowicz [1330]
 
 $ mławski
@@ -80,6 +81,7 @@ Myszyniec [3154]
 
 $ ostrowski
 Ostrów Mazowiecka [21324]
+Małkinia Górna [4918]
 Brok [1688]
 
 $ otwocki
@@ -98,6 +100,7 @@ $ płocki
 Gąbin [4082]
 Drobin [2597]
 Wyszogród [2330]
+Staroźreby [2154]
 Bodzanów [1126]
 
 $ płoński
